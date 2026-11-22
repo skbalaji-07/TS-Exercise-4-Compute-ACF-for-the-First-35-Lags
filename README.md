@@ -1,8 +1,8 @@
 # TS Exercise 4: Compute ACF for the First 35 Lags
 
-## Name: Boopathy S
+## Name: Balaji SK
 
-## Roll No: 2305003002
+## Roll No: 2305003001
 
 ## Department: AIML
 
